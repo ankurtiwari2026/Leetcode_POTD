@@ -5,4 +5,4 @@ class Solution:
         if x % 1 != 0:
             return -1
         else:
-            return int(x)
+            return int(x)14
